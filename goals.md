@@ -1,7 +1,11 @@
 #### The goal of this project is to build a tool to help me analyze data from Hopkins professor student evaluations in order to select the best professor for upcoming classes by comparing them to eachother in a set of criteria that I have not yet determined. 
 
-### Goals
+### Steps
 - 1 Scrape data from https://ep.jhu.edu/course-evaluation-results-public-reports
 - 2 Compile data into a spreadsheet
 - 3 Use python and data analytics tools to break this data up into separate csv files.
 - 4 Determine how to structure my csv files, all professors for a class in a specific file? or all professors separated? etc
+- 5 Determine important comparison criteria for professors (Time spent per week per class, some composite score based on the data)
+- 6 Construct composite scores and modify data frames to include these
+- 7 Perform basic data visualization in python in a jupyter notebook (Using Seaborn/matplotlib/pandas built in)
+- 8 After determining the best visualization methods, build them in d3 to host on my project website.
