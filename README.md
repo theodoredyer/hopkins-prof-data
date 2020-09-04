@@ -14,7 +14,7 @@
 - Determining how to obtain the data from the site (the only possible way I can see at the moment is manual, considering I need to download pdfs which include the data, but they are text based so maybe there is a solution, going to research)
 - Determining a valuable composite teacher score based on criteria that are important to me
 
-### Long Term Goals
+### Extra Features
 - Build a machine learning model to select professors for me. I'm imagining a way to do this would be supervised training with data (professor x, professor y) as input, and my decision. Some iterative approach would be needed in this approach to compare all professors for a given course to arrive at a winner.
 
 ## Goal
