@@ -10,6 +10,12 @@
 - 7 Perform basic data visualization in python in a jupyter notebook (Using Seaborn/matplotlib/pandas built in)
 - 8 After determining the best visualization methods, build them in d3 to host on my project website.
 
+### Done
+- Determined the composite scores I want to calculate for each course
+
+### Updated steps
+- Calculate composite scores for each data field (CCR/GCR/ICR, etc.) and add new dataframe columns using pandas.
+
 ### Challenges
 - Determining how to obtain the data from the site (the only possible way I can see at the moment is manual, considering I need to download pdfs which include the data, but they are text based so maybe there is a solution, going to research)
 - Determining a valuable composite teacher score based on criteria that are important to me
