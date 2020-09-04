@@ -9,3 +9,8 @@
 - 6 Construct composite scores and modify data frames to include these
 - 7 Perform basic data visualization in python in a jupyter notebook (Using Seaborn/matplotlib/pandas built in)
 - 8 After determining the best visualization methods, build them in d3 to host on my project website.
+
+### Challenges
+- Determining how to obtain the data from the site (the only possible way I can see at the moment is manual, considering I need to download pdfs which include the data, but they are text based so maybe there is a solution, going to research)
+- Determining a valuable composite teacher score based on criteria that are important to me
+
