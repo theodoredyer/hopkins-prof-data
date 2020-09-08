@@ -1,5 +1,8 @@
 #### The goal of this project is to build a tool to help me analyze data from Hopkins professor student evaluations in order to select the best professor for upcoming classes by comparing them to eachother in a set of criteria that I have not yet determined. 
 
+### How to Use
+- To see the work I've done so far, open datawork.ipynb. This is a work in progress and currently I'm only using it to evaluate professors for one particular course.
+
 ### Steps
 - 1 Scrape data from https://ep.jhu.edu/course-evaluation-results-public-reports
 - 2 Compile data into a spreadsheet
