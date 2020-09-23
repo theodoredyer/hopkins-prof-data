@@ -27,8 +27,8 @@
 - Build a machine learning model to select professors for me. I'm imagining a way to do this would be supervised learning with data (professor x, professor y) as input, and my decision. Some iterative approach would be needed in this approach to compare all professors for a given course to arrive at a winner. Would likely use brain.js and integrate this into the project section of my personal site.
 
 ## Goal
-- Build this tool and use it to select professors for my upcoming semesters.
-- Get more experience in data analysis/science
+- Build this tool and use it to gain insight towards making smart choices when selecting professors for my upcoming semesters.
+- Get more experience in data analysis
 
 ## Goal++
-- Build this tool and implement a ML model to select my professors
+- Implement a ML model to select my professors
